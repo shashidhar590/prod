@@ -1,9 +1,0 @@
-com\wm\oar\tool\domain\Login.class
-com\wm\oar\tool\test\TestDBConnection.class
-com\wm\oar\tool\domain\BaseVO.class
-com\wm\oar\tool\utilities\HibernateUtil.class
-com\wm\oar\tool\test\TestHibernateVO.class
-com\wm\oar\tool\dao\BaseDAO.class
-com\wm\oar\tool\test\TestHibernateIntegration.class
-com\wm\oar\tool\constants\LibraryManagementConstant.class
-com\wm\oar\tool\dao\CreateUserDAO.class
